@@ -1,9 +1,9 @@
-# Digitalocean-server-deployment
+# AWS-server-deployment
 
 > 🚧 **Work in Progress** - Built as part of TechWorld with Nana DevOps Bootcamp (Module X)
 
 ## Overview
-Deploy and configure production-ready Linux servers on DigitalOcean using industry best practices.
+Deploy and configure production-ready Linux servers on AWS using industry best practices.
 
 ## Technologies
 - [Tech 1]
