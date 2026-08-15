@@ -1,4 +1,4 @@
-# AWS Server Deployment
+# Aws Server Deployment
 
 > **Provisioning, securing, configuring, and deploying a Java application on AWS EC2**
 
