@@ -568,9 +568,12 @@ AWS-Server-Deployment/
 ├── README.md
 │
 ├── java-react-app
+│   ├── build.gradle
 │   ├── gradle
 │   ├── build
-│   ├── src
+├── src/
+│   ├── main/
+│   └── test/
 │
 ├── screenshots/
 │   ├── 01-ec2-instance.png
@@ -584,7 +587,6 @@ AWS-Server-Deployment/
 │   └── 09-linux-user.png
 │
 ├── .gitignore
-├── build.gradle
 │
 └── ...
 ```
